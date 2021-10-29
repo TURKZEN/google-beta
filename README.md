@@ -1,6 +1,6 @@
 # Google  BETA 1998
 
-            ![google_logo](https://web.archive.org/web/19990504112211im_/http://www.google.com/google.jpg)
+![google_logo](https://web.archive.org/web/19990504112211im_/http://www.google.com/google.jpg)
 
 ![project_screenshots](https://i.hizliresim.com/ag53sb0.)
 
