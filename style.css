@@ -1,0 +1,53 @@
+body
+{
+    text-align: center;
+}
+
+.logo-container
+{
+    padding-top: 15%;
+}
+
+.input1
+{
+    width: 25%;
+}
+
+
+.search-container
+{
+    background-color: rgb(212, 212, 212);
+    margin: 0% 10%;
+}
+
+.div1
+{
+    width: 1133px;
+    height: 120px;
+    margin: 2px auto;
+}
+.div2
+{
+    background-color: #7EE6DA;
+    width: 417px;
+    height: 120px;
+    float: left;
+    
+}
+
+.div3
+{
+    background-color: #70CCC3;
+    width: 243px;
+    height: 120px;
+    margin: 0 2px 0 2px;
+    float: left;
+    
+}
+.div4
+{
+    background-color: #62B3AB;
+    width: 469px;
+    height: 120px;
+    float: left;
+}
